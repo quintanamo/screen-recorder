@@ -10,10 +10,10 @@ The electron package is required for this project.  Install it globally using th
 ## Scripts
 
 Install all node modules:
-    npm install
+```npm install```
 
 Build the typescript files (this will output them in the dist folder):
-    npm run build
+```npm run build```
 
 Run the Electron app:
-    npm run start
+```npm run start```
