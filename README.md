@@ -5,7 +5,8 @@ A simple screen recorder app capable of capturing at different frame rates, reso
 ## Requirements
 
 The electron package is required for this project.  Install it globally using the following command:
-    npm install -g electron
+
+```npm install -g electron```
 
 ## Scripts
 
